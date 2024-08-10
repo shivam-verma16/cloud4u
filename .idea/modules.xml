@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-feature/java-feature.iml" filepath="$PROJECT_DIR$/java-feature/java-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-service/springboot-service.iml" filepath="$PROJECT_DIR$/springboot-service/springboot-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-service.test.iml" />
+    </modules>
+  </component>
+</project>
